@@ -1,2 +1,2 @@
 # bashcalc
-Simple bash calc
+Simple bash calculator
